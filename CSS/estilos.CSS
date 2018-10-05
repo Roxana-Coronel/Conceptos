@@ -1,0 +1,43 @@
+body{
+	background-color: #22ce61;
+}
+h1{
+	text-align: center;
+	background-color: #46855F;
+}
+h2{
+	text-align: center;
+	background-color: #C665C0;
+}
+.pa1,code,s,strike,del{
+	background-color: #5FA6C3;
+	color:#2E0032;
+	font-size: 64px;
+	
+}
+.pa2{
+	background-color: blue;
+	color: #320317;
+	font-size: 64px;
+	
+}
+em{
+	color: #ecfff8;
+	font-size: 64px;
+}
+.cur1{
+	background-color: #4B99AA;
+	font-size: 80px;
+}
+.cur2{
+	background-color: #D08DCC;
+	font-size: 80px;
+}
+abbr{
+	text-align: center;
+	background-color: #E19881;
+	font-size: 80px;
+}
+p em{
+	color:#D25ECB;
+}
